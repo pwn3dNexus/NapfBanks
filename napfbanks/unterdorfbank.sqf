@@ -1,6 +1,6 @@
 //By Nexus http://opendayz.net/members/pwn3d-nexus.18419/
 
-is (isServer) then {
+if (isServer) then {
 
 _vehicle_3 = objNull;
 if (true) then
